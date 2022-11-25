@@ -25,6 +25,18 @@ Route::get('/home', function () {
     return view('main.home');
 });
 
+Route::get('/about', function () {
+    return view('main.header.about');
+});
+
+Route::get('/contact', function () {
+    return view('main.header.contact');
+});
+
+Route::get('/info', function () {
+    return view('main.header.info');
+});
+
 Route::get('/potrait', function () {
     return view('main.detail-photo.potrait');
 });

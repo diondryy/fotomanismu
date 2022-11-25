@@ -77,8 +77,8 @@
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
                             additional content. This content is a little bit longer.</p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
+                    <div class="card-footer text-center">
+                        <small class="text-muted ">12 November 2022</small>
                     </div>
                 </div>
             </div>
@@ -93,8 +93,8 @@
                         <p class="card-text">This card has supporting text below as a natural lead-in to additional content.
                         </p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
+                    <div class="card-footer text-center">
+                        <small class="text-muted ">5 November 2022</small>
                     </div>
                 </div>
             </div>
@@ -110,8 +110,8 @@
                             additional content. This card has even longer content than the first to show that equal height
                             action.</p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
+                    <div class="card-footer text-center">
+                        <small class="text-muted ">12 November 2022</small>
                     </div>
                 </div>
             </div>

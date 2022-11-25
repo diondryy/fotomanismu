@@ -21,9 +21,9 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <div class="container-fluid">
-            <img src="assets/fotomanismutrans.png" class="img-fluid" width="75px" alt="">
+            <img src="assets/fotomanismutrans.svg" class="img-fluid" width="50px" alt="">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -34,10 +34,10 @@
                         <a class="nav-link active" aria-current="page" href="/home">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Info</a>
+                        <a class="nav-link" href="/info">Info</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Pricing</a>
+                        <a class="nav-link" href="/about">About</a>
                     </li>
                 </ul>
             </div>
@@ -57,10 +57,9 @@
 
 </body>
 
-<footer class="text-center text-white" style="background-color: black">
-    <img src="assets/Instagram_logo_2022.svg.webp" class="img-fluid mt-2 mb-2" width="20px" alt="">
-    @diondryy
-    <img src="assets/tiktok-icon2.png" class="img-fluid" width="20px" alt=""> @diondry
+<footer class="container text-dark opacity-50 fixed-bottom" style="background-color: none">
+    fotomanismu © All rights reserved.
+    
 </footer>
 
 </html>
